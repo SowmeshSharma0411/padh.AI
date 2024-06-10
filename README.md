@@ -1,7 +1,5 @@
 # padh.ai - now, you can “talk” to videos.
 
-**Dotslash 2024 Winning Project**
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
