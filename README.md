@@ -49,8 +49,8 @@ Thus, enhancing overall academic performance and confidence of students
     <td><img src="https://github.com/Akatsuki49/dotslash-/assets/95576716/93187a3f-a4dc-4ec3-a081-cad0230d2a09" alt="Screenshot 10"><br>Context</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Akatsuki49/dotslash-/assets/95576716/ada03406-900c-4aea-9597-7a133ca0c022" alt="Screenshot 11"><br>Who is the Curator of Slides ?</td>
-    <td><img src="https://github.com/Akatsuki49/dotslash-/assets/95576716/c75ca0cf-5f80-422d-9f6d-d08b525b6e24" alt="Screenshot 12"><br>Server Side Logs</td>
+    <td><img src="https://github.com/Akatsuki49/dotslash-/assets/95576716/ada03406-900c-4aea-9597-7a133ca0c022" alt="Screenshot 11"><br>Server Side Logs</td>
+    <td><img src="https://github.com/Akatsuki49/dotslash-/assets/95576716/c75ca0cf-5f80-422d-9f6d-d08b525b6e24" alt="Screenshot 12"><br>Who is the Curator of Slides ?</td>
   </tr>
   <tr>
     <td><img src="https://github.com/Akatsuki49/dotslash-/assets/95576716/b512476f-07ab-4b6e-9ed9-b43ab53210f5" alt="Screenshot 13"><br>More RAG Testing 1</td>
