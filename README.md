@@ -89,3 +89,5 @@ Here's how it works:
 - **AI Querying:** GPT 3.5 - The most popular LLM today.
 - **Authentication:** Firebase - Backend as a Service software used to manage user authentication.
 - **Ngrok:** Helps developers expose their local development server to the internet.
+
+## Backend Repo: https://github.com/SowmeshSharma0411/dotslash_backend_
