@@ -90,4 +90,4 @@ Here's how it works:
 - **Authentication:** Firebase - Backend as a Service software used to manage user authentication.
 - **Ngrok:** Helps developers expose their local development server to the internet.
 
-## Backend Repo: https://github.com/SowmeshSharma0411/dotslash_backend_
+## Backend Repo: <a href="https://github.com/SowmeshSharma0411/dotslash_backend_"> Dotslash Backend </a>
